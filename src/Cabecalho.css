@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    height: 600px;
+    background: url("https://setorsaude.com.br/wp-content/uploads/2016/08/5-caracter%C3%ADsticas-de-lideran%C3%A7a-necess%C3%A1rias-para-o-m%C3%A9dico-executivo.jpg") no-repeat;
+    background-size: 100%;
+}
+
+    header img{
+        width: 50px;
+        height: auto;
+        justify-content: flex-start;
+        align-items: flex-end;
+
+    }
+  
+    header a{
+        width: 100%;
+        display: flex;
+        color: bisque;
+        justify-content: space-between;
+        
+
+    }
+
+    
